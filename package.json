@@ -1,0 +1,24 @@
+{
+  "name": "microservice.guide",
+  "version": "0.0.1",
+  "description": "A guide to designing platform-agnostic microservices that are highly reusable.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev",
+    "build": "vuepress build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/microservices/microservice.guide.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/microservices/microservice.guide/issues"
+  },
+  "homepage": "https://github.com/microservices/microservice.guide#readme",
+  "devDependencies": {
+    "markdown-it-highlightjs": "^3.0.0",
+    "vuepress": "^0.14.2"
+  },
+  "dependencies": {}
+}
